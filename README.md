@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Working freelance on machine learning & deep learning projects. Especially interested in Computer Vision.
+Working freelance on data analysis, machine learning & deep learning projects. Especially interested in Computer Vision.
 
 <h3 align="left">Stack used:</h3>
 <p align="left"> 
