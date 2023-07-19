@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Working freelance on data analysis, machine learning & deep learning projects. Especially interested in Computer Vision.
+Working freelance on data analysis, machine learning & deep learning projects. Especially interested in:
+- using computer vision models for real-time detection on video feeds
+- using LLMs on large corpus of technical documentation
 
 <h3 align="left">Stack used:</h3>
 <p align="left"> 
