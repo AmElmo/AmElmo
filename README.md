@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Building AI agents for lead generation and RAG pipelines for indexing people's knowledge.
+
 Working freelance on data analysis, machine learning & deep learning projects. Especially interested in:
 - using computer vision models for real-time detection on video feeds
 - using LLMs on large corpus of technical documentation
