@@ -4,7 +4,7 @@ Currently digging deep into two topics:
 1. Vibe coding of full-stack applications.
 2. RAG pipelines for indexing people's knowledge.
 
-Product I have helped build and grow: getstation.com, videosupport.io, craftnow.ai, aqualeads.co
+Products I have helped build and grow: getstation.com, videosupport.io, craftnow.ai, aqualeads.co
 
 <h3 align="left">Stack used:</h3>
 <p align="left"> 
