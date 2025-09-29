@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Building AI agents for lead generation and RAG pipelines for indexing people's knowledge.
+Currently digging deep into two topics:
+1. Vibe coding of full-stack applications.
+2. RAG pipelines for indexing people's knowledge.
 
-Working freelance on data analysis, machine learning & deep learning projects. Especially interested in:
-- using computer vision models for real-time detection on video feeds
-- using LLMs on large corpus of technical documentation
+Product I have helped build and grow: getstation.com, videosupport.io, craftnow.ai, aqualeads.co
 
 <h3 align="left">Stack used:</h3>
 <p align="left"> 
