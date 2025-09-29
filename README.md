@@ -9,6 +9,18 @@ Products I have helped build and grow: getstation.com, videosupport.io, craftnow
 <h3 align="left">Stack used:</h3>
 <p align="left"> 
 
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
+  <img src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" alt="rails" width="40" height="40"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="langchain" width="40" height="40"/> 
+</a>
+<a href="https://supabase.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> 
+</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png" alt="docker" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="docker" width="40" height="40"/> </a>
@@ -18,6 +30,4 @@ Products I have helped build and grow: getstation.com, videosupport.io, craftnow
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
 
