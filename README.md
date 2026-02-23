@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I love building delightful products with my ~~bare hands~~ squad of AI agents.
+
 Currently digging deep into two topics:
 1. Vibe coding of full-stack applications.
 2. RAG pipelines for indexing people's knowledge.
