@@ -2,11 +2,16 @@
 
 I love building delightful products with my ~~bare hands~~ squad of AI agents.
 
-Currently digging deep into two topics:
-1. Vibe coding of full-stack applications.
-2. RAG pipelines for indexing people's knowledge.
+#### Latest Projects
 
-Products I have helped build and grow: getstation.com, videosupport.io, craftnow.ai, aqualeads.co
+- 🧰 [Loadout](https://github.com/AmElmo/loadout) – One app to manage MCPs, skills, rules, hooks, and plugins across Claude, Codex, Gemini, and more
+- 🎯 [Pointa](https://www.pointa.dev) – Chrome extension to annotate your app and report bugs, then let your AI coding tool fix everything
+- 📝 [SpecWright](https://specwright.argil.io) – AI agents orchestrator that writes your PRDs, design briefs, and tech specs before you code
+- 🏖️ [Landfall](https://amelmo.github.io/landfall) – CLI wizard that turns your landing page vision into structured, AI-ready prompts
+- 📖 [Storial](https://marketplace.visualstudio.com/items?itemName=amelmo.storial) – AI-powered component stories for React & Next.js, zero config
+- 🧹 [Log Sweep](https://www.npmjs.com/package/log-sweep) – Interactive CLI to safely remove console statements from JS/TS codebases
+
+Products I have helped build and grow: getstation.com (open source), videosupport.io (acquired), craftnow.ai, aqualeads.co
 
 <h3 align="left">Stack used:</h3>
 <p align="left"> 
