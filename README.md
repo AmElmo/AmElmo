@@ -5,6 +5,7 @@ I love building delightful products with my ~~bare hands~~ squad of AI agents.
 #### Latest Projects
 
 - 🧰 [Loadout](https://github.com/AmElmo/loadout) – One app to manage MCPs, skills, rules, hooks, and plugins across Claude, Codex, Gemini, and more
+- 🎥 [ProofShot](https://github.com/AmElmo/proofshot) – CLI that records browser sessions, captures screenshots, and bundles visual proof artifacts for AI coding agents
 - 🎯 [Pointa](https://www.pointa.dev) – Chrome extension to annotate your app and report bugs, then let your AI coding tool fix everything
 - 📝 [SpecWright](https://specwright.argil.io) – AI agents orchestrator that writes your PRDs, design briefs, and tech specs before you code
 - 🏖️ [Landfall](https://amelmo.github.io/landfall) – CLI wizard that turns your landing page vision into structured, AI-ready prompts
