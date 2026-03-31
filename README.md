@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love building delightful products with my ~~bare hands~~ squad of AI agents.
+I love building delightful products with my ~~bare hands~~ squad of fearless AI agents.
 
 #### Latest Projects
 
